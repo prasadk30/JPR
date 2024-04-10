@@ -64,6 +64,5 @@ public class AnimatedShapes extends Applet implements Runnable {
         g.setColor(Color.magenta);
         g.drawPolygon(xPoints, yPoints, xPoints.length);
     }
-
 	
 }
